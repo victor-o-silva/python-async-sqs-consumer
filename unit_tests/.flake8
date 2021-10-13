@@ -1,7 +1,0 @@
-[flake8]
-filename =
-    app/**.py,
-    unit_tests/**.py,
-
-max-complexity = 5
-max-line-length = 119

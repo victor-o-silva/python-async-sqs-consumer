@@ -1,4 +1,0 @@
--r requirements-tests.txt
-
-ipython
-pre-commit
